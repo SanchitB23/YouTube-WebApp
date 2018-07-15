@@ -25,14 +25,14 @@ To get a Youtube API [Click Here](https://developers.google.com/youtube/v3/)
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/SanchitB23/Weather.git
-> cd Weather
+> git clone https://github.com/SanchitB23/YouTube-ReactApp.git
+> cd YouTube-ReactApp
 > npm install
 > npm start
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/SanchitB23/BookList/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/SanchitB23/YouTube-ReactApp/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
