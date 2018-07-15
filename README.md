@@ -6,7 +6,7 @@ Based on ReactJs
 
 This App uses an API from Google-Youtube.
 ##### Features:
-*  Search Bar
+-  Search Bar
 -  Better Search Response ,also faster
 -  Automatic list load with typing
 
