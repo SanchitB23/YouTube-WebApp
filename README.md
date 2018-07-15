@@ -1,10 +1,42 @@
-# YouTube-ReactApp
-Web App for youtube just clone it and use npm start.  
-For Latest Node.js Package, [Click Here](https://nodejs.org/en/)  
-Install the Package and start the app
+# YouTube App
 
+Based on ReactJs
+
+## About the App
+
+This App uses an API from Google-Youtube.
+#####Features:
+<ol>
+  Search Bar
+  Better Search Response ,also faster
+  Automatic list load with typing
+</ol>
+
+Screenshot: ![Click Here For Screeshot](http://oi64.tinypic.com/33f9k60.jpg)
+
+## Getting Started
+
+There are two methods for getting started with this repo.
+
+### Prequisites
+
+For Latest Node.js Package, [Click Here](https://nodejs.org/en/)  
 To get a Youtube API [Click Here](https://developers.google.com/youtube/v3/)
 
-### For Windows
-> npm install   
+#### Familiar with Git?
+Checkout this repo, install dependencies, then start the gulp process with the following:
+
+```
+> git clone https://github.com/SanchitB23/Weather.git
+> cd Weather
+> npm install
 > npm start
+```
+
+#### Not Familiar with Git?
+Click [here](https://github.com/SanchitB23/BookList/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+```
+> npm install
+> npm start
+```
