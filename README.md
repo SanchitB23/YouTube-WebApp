@@ -5,12 +5,10 @@ Based on ReactJs
 ## About the App
 
 This App uses an API from Google-Youtube.
-#####Features:
-<ol>
-  Search Bar
-  Better Search Response ,also faster
-  Automatic list load with typing
-</ol>
+##### Features:
+*  Search Bar
+-  Better Search Response ,also faster
+-  Automatic list load with typing
 
 Screenshot: ![Click Here For Screeshot](http://oi64.tinypic.com/33f9k60.jpg)
 
