@@ -20,6 +20,8 @@ There are two methods for getting started with this repo.
 
 For Latest Node.js Package, [Click Here](https://nodejs.org/en/)  
 To get a Youtube API [Click Here](https://developers.google.com/youtube/v3/)
+**Requirements**
+  The above API key should be inserted in this file: [File](/src/index.js)
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
