@@ -9,7 +9,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 // import icon from './assets/giphy.gif';
 
-const API_KEY = ''; //Youtube API_KEY Check Readme.md
+const API_KEY = "AIzaSyBOxhUdYAx92dxB3sLDBrJbaXql74gVESs"; //Youtube API_KEY Check Readme.md
 
 
 class App extends Component {
@@ -25,7 +25,7 @@ class App extends Component {
   videoSearch(term) {
     YTSearch({key: API_KEY, term: term}, (videos) => {
       this.setState({
-        videos: videos,
+        videos,
         selectedVideo : videos[0]
       });
       //^ this means this.setStates({videos:videos})    Its done when key and value have the same name
