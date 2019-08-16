@@ -9,7 +9,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 // import icon from './assets/giphy.gif';
 
-const API_KEY = "AIzaSyBOxhUdYAx92dxB3sLDBrJbaXql74gVESs"; //Youtube API_KEY Check Readme.md
+const API_KEY = ""; //Youtube API_KEY Check Readme.md
 
 
 class App extends Component {
